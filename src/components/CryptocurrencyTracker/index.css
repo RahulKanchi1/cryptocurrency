@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    background-color: #000000;
+    height: 120vh;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
